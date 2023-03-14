@@ -1,0 +1,139 @@
+h1{
+    font-size: 50px;
+    background: linear-gradient(to right, #ff0000, #0000ff);
+     -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h2{
+    font-size: 30px;
+    background: linear-gradient(to right, #0077c2, #ff0084, #00ff84);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h3{
+    font-size: 35px;
+    background: linear-gradient(to right, #87CEFA, #32CD32);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  clear: both;
+    border: outset;
+    border-width:thick;
+    width: 50%;
+}
+#logo1{
+    width: 40%;
+    float: left;
+}
+#logo2{
+    width: 40%;
+    float: left;
+}
+#logo3{
+    width: 40%;
+    float: left;
+}
+#logo4{
+    width: 40%;
+    float: left;
+}
+#logo5{
+    width: 40%;
+    float: left;
+}
+#logo6{
+    width: 40%;
+    float: left;
+}
+#logo7{
+    width: 40%;
+    float: left;
+}
+#logo8{
+    width: 40%;
+    float: left;
+}
+#logo9{
+    width: 40%;
+    float: left;
+}
+#p1{
+    border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p2{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p3{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p4{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p5{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p6{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p7{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p8{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p9{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}

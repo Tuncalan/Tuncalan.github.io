@@ -1,0 +1,27 @@
+#caja1{
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    border: inset;
+    background-color: azure;
+    font-style: italic;
+}
+#marco{
+    display: inline-block;
+    width: 40%;
+    float: left;
+}
+h1{
+    text-align: center;
+    width: 50%;
+    margin-left: 30%;
+    margin-right: 10%;
+    border: outset;
+    background-color: cornsilk;
+}
+#lista{
+    border: inset;
+    width: 15%;
+    background-color: azure;
+    font-style: italic;
+}

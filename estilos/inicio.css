@@ -1,0 +1,31 @@
+#imagen{
+    display: inline-block;
+    float: left;
+    width: 12%;
+    border: outset;
+}
+#titulo{
+    display: inline-block;
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+    border: outset;
+    background-color: antiquewhite;
+    width: 35%;
+}
+.texto{
+    clear: both;
+    border: solid;
+    width: 25%;
+    background-color: antiquewhite;
+}
+.parrafos{
+    text-align: justify;
+    font-style: italic;
+}
+#imagen2{
+    float: right;
+    width: 10p;
+    display: inline-block;
+    margin: 10px;
+}

@@ -1,0 +1,38 @@
+#tit{
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+        
+}
+
+table, th, td{
+    border: 2px outset black;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+th, td{
+    padding: 10px;
+}
+th{
+    text-align: left;
+    background-color: beige;
+}
+
+#imagen{
+    float: left;
+}
+#imagen2{
+    float: right;
+    width: 20%;
+}
+.num{
+    background-color: blanchedalmond;
+}
+.num2{
+    background-color: lavenderblush;
+}
+.num3{
+    background-color: aliceblue;
+}
